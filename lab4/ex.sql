@@ -36,7 +36,6 @@ CREATE TABLE Sales1 (
     Cust_Name VARCHAR(10)
 );
 
-
 INSERT INTO Sales1 (Cust_Id, Cust_Name) VALUES
 (101, 'Keyboard'),
 (102, 'Computer'),
